@@ -16,7 +16,7 @@ My technical writing tends to be a synthesis of the information age - data analy
 
 The more open conversations we have with the people who object to what is happening in the Crypto Asset Ecosystem. It can steelman the argument for what we are doing.
 
-A collective is not always decentralized, we are an organization of collectives or agencies if you rather call them.
+A collective is not always decentralized, we are an organization of collectives or agencies.
 
 AKA DAOs backed with real contracts. This is our official website -> https://www.fancradle.com
 
@@ -36,7 +36,7 @@ FanCradle focuses on the publishing side of "YouTube" and the non-mechanicals;
 
 collecting payments and organizing search options for sound directors - including the necessary community support. You can be an early adopter today, and fund us with a simple agreement.
 
-We are building something similar to a syndicate for this purpose. However, our use cases include new agreements that connect agencies to various opportunities. 
+We are building something similar to a syndicate for this purpose. However, our use cases include new agreements that connect collectives to various opportunities. 
 
 The question of internet business is how can it become for 1 customer relatively better as we scale the customer base.
 
