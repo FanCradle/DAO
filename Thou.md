@@ -1,0 +1,5 @@
+TINATB represents a simple contract that allows the owner (333 Ventures) to receive funds and withdraw a certain amount of funds to a specified address.
+
+The contract has an owner address field, a balance field, and a constructor function that sets the owner to the address that deploys the contract. The contract also has a receive function that allows it to receive funds. This function is marked as payable and external, which means that it can be called from external sources and that it can receive ether (the native cryptocurrency of Ethereum).
+
+The contract also has a withdraw function that allows the owner to withdraw a specified amount of funds to a specified address. This function has two require statements that check whether the sender of the transaction is the owner and whether there are sufficient funds in the contract to withdraw the specified amount. If either of these conditions is not met, the function will revert and the transaction will be unsuccessful. If both conditions are met, the function will execute and transfer the specified amount of funds to the specified address and decrease the contract's balance by the same amount.
