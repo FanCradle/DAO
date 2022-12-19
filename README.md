@@ -14,7 +14,9 @@ I enjoy writing using a 'framework' and ideas backed with data points.
 
 My technical writing tends to be a synthesis of the information age - data analysis and narrative building, etc.
 
-The more open conversations we have with the people who object to what is happening in the Crypto Asset Ecosystem. It can steelman the argument for what we are doing.
+The more open conversations we have with the people who object to what is happening in the Crypto Asset Ecosystem. It can steelman the argument for what we 
+
+are doing.
 
 A collective is not always decentralized, we are an organization of collectives or agencies.
 
@@ -22,9 +24,13 @@ AKA DAOs backed with real contracts. This is our official website -> https://www
 
 For the blockchain trilemma problem, we lean towards scalability & security.
 
-To put it exactly in 'Vitalik's words' -> "Decentralized governance structure protects against attackers on the inside, and a decentralized implementation protects against powerful attackers on the outside ("censorship resistance")
+To put it exactly in 'Vitalik's words' -> "Decentralized governance structure protects against attackers on the inside, and a decentralized implementation 
 
-If that means nodes on our network doing stripe transactions but members can vote on our motives we are happy with such progression, as it is way simpler for artists to imagine their youtube account integrated into a stripe account.
+protects against powerful attackers on the outside ("censorship resistance")
+
+If that means nodes on our network doing stripe transactions but members can vote on our motives we are happy with such progression, as it is way simpler 
+
+for artists to imagine their youtube account integrated into a stripe account.
 
 On the other hand, youtube paying your ETH wallet; may come a bit later in the future. 
 
@@ -34,9 +40,13 @@ The best part, for now, is creatives not having to worry about the difficulty of
 
 FanCradle focuses on the publishing side of "YouTube" and the non-mechanicals; 
 
-collecting payments and organizing search options for sound directors - including the necessary community support. You can be an early adopter today, and fund us with a simple agreement.
+collecting payments and organizing search options for sound directors - including the necessary community support. You can be an early adopter today, and 
 
-We are building something similar to a syndicate for this purpose. However, our use cases include new agreements that connect collectives to various opportunities. 
+fund us with a simple agreement.
+
+We are building something similar to a syndicate for this purpose. However, our use cases include new agreements that connect collectives to various 
+
+opportunities. 
 
 The question of internet business is how can it become for 1 customer relatively better as we scale the customer base.
 
@@ -50,7 +60,11 @@ What has prevented businesses from taking advantage of such opportunities is bui
 
 It has been in the past that Netflix, Google, Amazon, and Facebook could achieve this way easier than most small to medium-sized enterprises.
 
-SMEs are FanCradle's target audience. ChatGP3 has proven not only that the interface can be delivered to solve this problem via LLMs. Whereas it appeared to be very difficult for the needed data warehousing and human resource to affordably build an interface for every indie artist who was unable to use a Jupyter notebook, today it is possible. 
+SMEs are FanCradle's target audience. ChatGP3 has proven not only that the interface can be delivered to solve this problem via LLMs. 
+
+Whereas it appeared to be very difficult for the needed data warehousing and human resource to affordably build an interface for every indie artist who was 
+
+unable to use a Jupyter notebook, today it is possible. 
 
 Our design, therefore, champions decision-making by all funders of our first "DAO" project 
 
