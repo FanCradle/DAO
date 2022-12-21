@@ -8,7 +8,7 @@ Whenever observation turns into storytelling. Data Science proves to be at the h
 
 Our Creators run models and tell the world what they find - where could things go up and then right?
 
-I go by [Osana AD](https://g.co/kgs/QMQEeE) - I consider myself a freestyle artist of some sort. 
+I go by [Osana AD](https://open.spotify.com/artist/2MlbgrUglNUn7pTeJogaKT) - I consider myself a freestyle artist of some sort. 
 
 I enjoy writing using a 'framework' and ideas backed with data points. 
 
