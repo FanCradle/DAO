@@ -11,11 +11,7 @@ contract TINATB {
     }
 
     receive() payable external {
-        // Check if the balance is around £40,000
-        if (balance >= 314417987296) {
-            revert();
-        }
-        // If the balance is below £40,000, allow the transfer and increase the balance
+        require(balance <= 314417987296, "Receivable limit hit");
         balance += msg.value;
     }
 
