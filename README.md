@@ -20,7 +20,7 @@ are doing.
 
 A collective is not always decentralized, we are an organization of collectives or agencies.
 
-AKA DAOs backed with real contracts. This is our official website -> https://www.fancradle.com
+AKA DAOs backed with real contracts. This is our official website. https://www.fancradle.com
 
 For the blockchain trilemma problem, we lean towards scalability & security.
 
@@ -60,7 +60,7 @@ What has prevented businesses from taking advantage of such opportunities is bui
 
 It has been in the past that Netflix, Google, Amazon, and Facebook could achieve this way easier than most small to medium-sized enterprises.
 
-SMEs are FanCradle's target audience. ChatGP3 has proven not only that the interface can be delivered to solve this problem via LLMs. 
+SMEs are FanCradle's target audience. ChatGPT3 has proven not only that the interface can be delivered to solve this problem via LLMs. 
 
 Whereas it appeared to be very difficult for the needed data warehousing and human resource to affordably build an interface for every indie artist who was 
 
