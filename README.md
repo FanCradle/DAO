@@ -32,23 +32,23 @@ protects against powerful attackers on the outside ("censorship resistance")
 
 If that means nodes on our network doing stripe transactions but members can vote on our motives we are happy with such progression, as it is way simpler 
 
-for artists to imagine their youtube account integrated into a stripe account.
+for artists to imagine their youtube account integrated to a stripe account.
 
-On the other hand, youtube paying your ETH wallet; may come a bit later in the future. 
+On the other hand, youtube paying your ETH wallet; may come much later in the future. 
 
-We hope to at least make it possible sometime in the near future. There are many advantages to getting this done that I'll discuss later in this post.
+We hope to at least make it possible sometime in the near future. There are many advantages to getting this done and not discussed.
 
 The best part, for now, is creatives not having to worry about the difficulty of scaling a video company or any payment system.
 
 FanCradle focuses on the publishing side of "YouTube" and the non-mechanicals; 
 
-collecting payments and organizing search options for sound directors - including the necessary community support. You can be an early adopter today, and 
+collecting payments and organizing search options for sound directors - including the necessary community support.
 
-fund us with a simple agreement.
+You can be an early adopter today, and fund us with a simple agreement.
 
-We are building something similar to a syndicate for this purpose. However, our use cases include new agreements that connect collectives to various 
+We are building something similar to a syndicate for this purpose. 
 
-opportunities. 
+However, our use cases include new agreements that connect collectives to various opportunities. 
 
 The question of internet business is how can it become for 1 customer relatively better as we scale the customer base.
 
@@ -64,9 +64,9 @@ It has been in the past that Netflix, Google, Amazon, and Facebook could achieve
 
 SMEs are FanCradle's target audience. ChatGPT3 has proven not only that the interface can be delivered to solve this problem via LLMs. 
 
-Whereas it appeared to be very difficult for the needed data warehousing and human resource to affordably build an interface for every indie artist who was 
+Whereas appeared quite difficult, needed data warehousing and human resource to affordably build an interface for an indie artist 
 
-unable to use a Jupyter notebook, today it is possible. 
+unable to use a Jupyter notebook, today it is straightforward. 
 
 Our design, therefore, champions decision-making by all funders of our first "DAO" project 
 
